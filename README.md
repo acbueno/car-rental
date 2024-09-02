@@ -9,6 +9,7 @@ CQRS is a pattern that separates the data modification (commands) from the data 
 ## Features
 
 - **CQRS Implementation**: Separation of command and query responsibilities.
+- **Command Handling**: Handles commands related to car rental operations.
 - **Query Handling**: Handles queries for retrieving car information.
 - **DTOs**: Usage of Data Transfer Objects (DTOs) for communication.
 - **Mappers**: Conversion between entities and DTOs.
